@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SignUp from './pages/signup';
 import PrivateRoute from './components/PrivateRoute';
 import Offers from './pages/Offers';
-import SignIn from './pages/SignIn';
+import SignIn from './pages/signin';
 import Profile from './pages/Profile';
 import CreateListing from './pages/CreateListing';
 import ForgotPassword from './pages/ForgotPassword';
